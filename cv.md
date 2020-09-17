@@ -14,3 +14,9 @@ GIT | NODEJS | CSS | HTML
 APPLE AUTORIZED ENGENEER | ARDUINO | LINUX COMMAND LINE | RASPBIAN
 
 ---
+## EDUCATION<br>
+(2019 - 2012) Moscow State University of Environmental Engineering
+
+---
+## ENGLISH LEVEL<br>
+A2 (Pre-intermediate)<br>
